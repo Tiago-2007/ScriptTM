@@ -1,6 +1,6 @@
 # xGame
-Repository for Game Development in Java Script
+Repository for Script in Windows PowerShell
 
 ## IMPORTANT DATES
-* Game release - 28/11/2024
-* Game deadline - 06/12/2024
+* Script release - 25/11/2024
+* Script deadline - 25/11/2024
